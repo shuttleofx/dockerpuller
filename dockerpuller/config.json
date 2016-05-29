@@ -1,8 +1,8 @@
 {
     "host": "localhost",
     "port": 8000,
-    "token": "abc123",
+    "token": "dockerhub",
     "hooks": {
-        "hello": "scripts/hello.sh"
+        "pull": "scripts/pull.sh"
     }
 }
